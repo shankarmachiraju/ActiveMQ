@@ -1,2 +1,2 @@
 # ActiveMQ
-Demo on Running ActiveMQ
+Demo on Running Apache ActiveMQ
